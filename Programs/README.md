@@ -3,7 +3,7 @@
 Python Refresher contains two programs to brush up on skills using python.
 ## Imitating Real World echo
 ### Project Description
-    The program echo imitates the sound of an echo from a mountain range. Once started the terminal will ask the user to input a word or phrase to "Yell into the mountain". The String typed by the user is then put through a method called echo. This method will then take the input and take the last few characters of the string and print them to the terminal 3 times, while each line gets shorter. 
+The program echo imitates the sound of an echo from a mountain range. Once started the terminal will ask the user to input a word or phrase to "Yell into the mountain". The String typed by the user is then put through a method called echo. This method will then take the input and take the last few characters of the string and print them to the terminal 3 times, while each line gets shorter. 
 ### Output
     The output turns out like this:
     ```
@@ -16,9 +16,9 @@ Python Refresher contains two programs to brush up on skills using python.
 
 ## Fibonacci Sequence Calculation
 ### Project Description
-    The program fib, calculates the fibonacci sequence of given number and records the amount of time it takes for the program to calculate. Finally the recorded times are displayed on a line graph.
+The program fib, calculates the fibonacci sequence of given number and records the amount of time it takes for the program to calculate. Finally the recorded times are displayed on a line graph.
 ### Developer Code
-    The program is split into 3 methods. The initial method acts as a main where the `fib` method is implemented and where the times are plotted. The next method `fib` calculates the fibonacci sequence. Finally the last method is a wrapper `timer` to calculate and store the times it takes for the `fib` method to complete. The program also used `lru_cache`, to assist to speed up calculations, and `matplotlib` to create the line graph.
+The program is split into 3 methods. The initial method acts as a main where the `fib` method is implemented and where the times are plotted. The next method `fib` calculates the fibonacci sequence. Finally the last method is a wrapper `timer` to calculate and store the times it takes for the `fib` method to complete. The program also used `lru_cache`, to assist to speed up calculations, and `matplotlib` to create the line graph.
 ### Output
     The output of the program is shown below.
     ```
