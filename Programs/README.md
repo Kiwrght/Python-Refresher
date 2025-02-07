@@ -31,6 +31,5 @@ The program is split into 3 methods. The initial method acts as a main where the
     Finished in:  0.0018883000002460903 s f( 6 ) ->  8
     Finished in:  0.002102400000239868 s f( 7 ) ->  13
     # Omitted for simplicity #
-
-    ![Fibonacci Calculation plot](../../../Web_Application_Development/FibonacciCalcTime.png)
     ````
+    ![Fibonacci Calculation plot](../../../Web_Application_Development/FibonacciCalcTime.png)
