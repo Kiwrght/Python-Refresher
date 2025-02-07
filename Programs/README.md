@@ -33,5 +33,8 @@ The output of the `fib` program is shown below.
     Finished in:  0.002102400000239868 s f( 7 ) ->  13
     # Omitted for simplicity #
     ```
-    
+
 ![Fibonacci Sequence Times](FibonacciCalcTime.png)
+
+## Acknowledgements
+I'd like to thank Professor Changhui Xu and Teaching Assistant Maaz Bin Musa for the assistance with this program.
