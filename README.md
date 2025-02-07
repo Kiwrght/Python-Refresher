@@ -34,7 +34,7 @@ The output of the `fib` program is shown below.
     # Omitted for simplicity #
     
 
-![Fibonacci Sequence Times](FibonacciCalcTime.png)
+![Fibonacci Sequence Times](https://github.com/Kiwrght/Python-Refresher/blob/main/Programs/FibonacciCalcTime.png)
 
 ## Acknowledgements
 I want to thank Professor Changhui Xu and Teaching Assistant Maaz Bin Musa for their assistance with this program.
