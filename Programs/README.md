@@ -20,7 +20,6 @@ The program fib, calculates the fibonacci sequence of given number and records t
 ### Developer Code
 The program is split into 3 methods. The initial method acts as a main where the `fib` method is implemented and where the times are plotted. The next method `fib` calculates the fibonacci sequence. Finally the last method is a wrapper `timer` to calculate and store the times it takes for the `fib` method to complete. The program also used `lru_cache`, to assist to speed up calculations, and `matplotlib` to create the line graph.
 ### Output
-
 The output of the program is shown below.
     ```
     Finished in:  6.000000212225132e-07 s f( 1 ) ->  1
@@ -33,4 +32,4 @@ The output of the program is shown below.
     Finished in:  0.002102400000239868 s f( 7 ) ->  13
     # Omitted for simplicity #
     ````
-![Fibonacci Calculation plot](../../../Web_Application_Development/FibonacciCalcTime.png)
+![Fibonacci Sequence Times](FibonacciCalcTime.png)
